@@ -1,0 +1,1132 @@
+{
+  "navDashboardItem": [
+    {
+      "link": "/profile-details",
+      "text": "Profile"
+    },
+    {
+      "link": "/notification",
+      "text": "Notification"
+    },
+    {
+      "link": "/appearance",
+      "text": "Appearance"
+    },
+    {
+      "link": "/plans-billing",
+      "text": "Plans and Billing"
+    },
+    {
+      "link": "/sessions",
+      "text": "Sessions"
+    }
+  ],
+  "nav": [
+    {
+      "link": "/home",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Home"
+    },
+    {
+      "link": "/virtual-try-on",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Virtual Try-On"
+    },
+    {
+      "link": "#",
+      "text": "Pages",
+      "isIcon": true,
+      "isMenu": true,
+      "megamenu": true,
+      "inner": [
+        {
+          "heading": "Inner Pages",
+          "isComing": false
+        },
+        {
+          "link": "/styleguide",
+          "text": "Style Guide",
+          "badge": "Hot",
+          "isComing": false
+        },
+        {
+          "link": "/blog",
+          "text": "Blog",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/blog-detail",
+          "text": "Blog Details",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/pricing",
+          "text": "Pricing",
+          "badge": "",
+          "isComing": false
+        },
+
+        {
+          "link": "/contact",
+          "text": "Contact",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/signin",
+          "text": "Sign In",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/signup",
+          "text": "Sign Up",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/team",
+          "text": "Team",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/terms-policy",
+          "text": "Terms & Policy",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/privacy-policy",
+          "text": "Privacy Policy",
+          "badge": "",
+          "isComing": false
+        }
+      ],
+      "dashboard": [
+        {
+          "heading": "DASHBOARD PAGES",
+          "isComing": false
+        },
+        {
+          "link": "/profile-details",
+          "text": "Profile",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/notification",
+          "text": "Notification",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/appearance",
+          "text": "Apperance",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/plans-billing",
+          "text": "Plans and Billing",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/sessions",
+          "text": "Sessions",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/application",
+          "text": "Application",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/release-notes",
+          "text": "Release notes",
+          "badge": "",
+          "isComing": false
+        },
+        {
+          "link": "/help",
+          "text": "Help & FAQs",
+          "badge": "",
+          "isComing": false
+        }
+      ],
+      "upcoming": [
+        {
+          "heading": "Upcoming Advance Elements",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Product Description",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Youtube Vedio to Post",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Grammar Check",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Generate From RSS",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Vedio Script",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Audio to Text",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Subscription",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Maintanence",
+          "badge": "Coming",
+          "isComing": true
+        },
+        {
+          "link": "#",
+          "text": "Coming Soon",
+          "badge": "Coming",
+          "isComing": true
+        }
+      ]
+    },
+    {
+      "link": "/roadmap",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Roadmap"
+    },
+    {
+      "link": "/utilize",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "How to use"
+    }
+  ],
+  "smallNavItem": [
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/photo.png",
+      "text": "Photo Editor",
+      "badge": "Hot",
+      "icon": ""
+    },
+
+    {
+      "link": "/profile-details",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Profile Details",
+      "badge": "",
+      "icon": "user"
+    },
+    {
+      "link": "/notification",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Notification",
+      "badge": "",
+      "icon": "shopping-bag"
+    },
+    {
+      "link": "/appearance",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Apperance",
+      "badge": "",
+      "icon": "home"
+    },
+    {
+      "link": "/plans-billing",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Plans and Billing",
+      "badge": "",
+      "icon": "briefcase"
+    },
+    {
+      "link": "/sessions",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Sessions",
+      "badge": "",
+      "icon": "users"
+    },
+    {
+      "link": "/application",
+      "isDisable": false,
+      "type": "setting",
+      "text": "Application",
+      "badge": "",
+      "icon": "list"
+    }
+  ],
+  "toolsItem": [
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Photo Editor",
+      "img": "/images/generator-icon/photo-editor_line.png",
+      "badge": "Hot",
+      "wdt": 36
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "AI Photo Enhancement",
+      "img": "/images/generator-icon/photo_line.png",
+      "badge": "NEW",
+      "wdt": 36
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Background Removal",
+      "img": "/images/generator-icon/photo_line.png",
+      "badge": "",
+      "wdt": 36
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Style Transfer",
+      "img": "/images/generator-icon/photo_line.png",
+      "badge": "",
+      "wdt": 36
+    }
+  ],
+  "rightPanel": [
+    {
+      "today": [
+        {
+          "title": "Professional Photo Enhancement",
+          "isActive": true,
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Background Removal Request",
+          "isActive": false,
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Style Transfer Application",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "AI Photo Color Correction",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "yesterday": [
+        {
+          "title": "Portrait Photo Enhancement",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Product Photo Editing",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Landscape Photo Enhancement",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "AI Photo Upscaling",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Professional Headshot Editing",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Wedding Photo Retouching",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Fashion Photo Editing",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Real Estate Photo Enhancement",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "previous": [
+        {
+          "title": "User Assistant Request",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Funtion Js",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Generate a Image",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain code Quality",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "AIWave Defination",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Unique Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain Remote Team",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "older": [
+        {
+          "title": "AI writing: Free Trial",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Education Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "1992 Environment Policy",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Senior UX/UI Design",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Dark Mode Html CSS JS",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain Remote Team",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "leftPanel": [
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Photo Editor",
+      "img": "/images/generator-icon/photo.png",
+      "badge": "HOT"
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "AI Photo Enhancement",
+      "img": "/images/generator-icon/photo.png",
+      "badge": "NEW"
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Background Removal",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Style Transfer",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Photo Upscaling",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Color Correction",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Portrait Retouching",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Product Photo Editing",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Wedding Photo Editing",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Fashion Photo Editing",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Real Estate Photo Enhancement",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-editor",
+      "isDisable": false,
+      "title": "Landscape Photo Enhancement",
+      "img": "/images/generator-icon/photo.png",
+      "badge": ""
+    }
+  ]
+}

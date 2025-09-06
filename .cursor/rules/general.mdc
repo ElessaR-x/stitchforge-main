@@ -1,0 +1,15 @@
+---
+description: General rules for the project
+globs:
+alwaysApply: true
+---
+
+Projenin ismi StitchForge olacak.
+Projenin kısa açıklaması: StitchForge, web tabali ai destekli fotograftan profesyonel cekimler yapma aracıdır.
+Projenin açıklaması: StitchForge, web tabali ai destekli fotograftan profesyonel cekimler yapma aracıdır. Fotoğraflarınızı ai destekli olarak çekin, edit edin ve profesyonel cekimler yapın. Kiyafet denemeleri de yapilabilir.
+Next.js 15.3.0 kullanilacak.
+JavaScript kullanilacak.
+React 19.1.0 kullanilacak.
+Node.js 22.15.0 kullanilacak.
+npm kullanilacak.
+Proje tamamen ingilizce tabali olacak o yuzden tum textler ingilizce olmasi gerekiyor.
